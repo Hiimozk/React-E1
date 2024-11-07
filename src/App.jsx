@@ -43,7 +43,7 @@ function App() {
           />
         </div>
         <div style={styles.inputContainer}>
-          <label style={styles.label}>Descripción:</label>
+          <label style={styles.label}>Descripcion:</label>
           <input
             type="text"
             value={getDescription}
